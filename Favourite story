@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <!-- start of title-->
+  <title>MY FAVOURITE STORY</title>
+  <!-- end of title-->
+</head>
+<body>
+<!-- start of body-->
+  <h1>Farmer And His  Sons</h1>
+  <h2>DAY 1:</h2> <!-- Story of 1st day-->
+  <strong>The Tensed Farmer!!</strong>
+    <article> There was an old farfer who have seven children, and was very tensed about there future.</article>
+    <article> The reason behind his tention was all the three sons gets iinto a quarrel among themselves.</article>
+  <section><!-- seperation starts-->
+    <h2>DAY 2:</h2>
+    <strong> Farmer has an idea!!</strong>
+    <article>The old farmer was very clever and have a way stop there fihghts among themselves, so</article>
+    <article>that day in the evening called all his sons and ask them to bring a stick when they come </article>
+    <article> next day.
+  </section><!-- seperation ends-->
+  <section><!-- seperation starts-->
+    <h2>DAY 3:</h2>
+    <strong>Sons got there lessons!!</strong>
+    <article>All the sons were standing in front of the farmer with a stick in chach ones hand. The farmer</article>
+    <article>smiled and ask them to break the stick that they brought in two peices. All the sons broke the </article>
+    <article>sticks very easyliy. Now the farmer asked them to make a bundle of all the half pieces and try </article>
+    <article>to break them again. The sons tried with all their might bt no one coulg break the bundle. They</article>
+    <article> asked their father why he asked to do such an odd job. Farmer smiled and answered that if all </article>
+    <article>of his sons come together no one can defeat them.
+  </section><!-- seperation ends-->
+    <h2> MORAL OF THE STORY</h2>
+    <summary> UNITY IS STRENGTH</summary>
+ <section><!-- seperation starts-->
+	<address><!--Address used for contact -->
+HTML Written by : <article>KINGSHUK NATH</article><br>
+Mail me at:<a href="mailto:kingshuknath3694@gmail.com">HERE</a><br>
+From: Kolkata<br>
+India
+</address><!-- Address tag ends-->
+</section><!-- seperation ends-->
+ </body>
+ <!-- end of body-->
+</html>
